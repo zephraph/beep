@@ -1,0 +1,19 @@
+{
+  "name": "beep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zephraph/beep.git"
+  },
+  "author": "Justin Bennett <oss@just-be.dev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zephraph/beep/issues"
+  },
+  "homepage": "https://github.com/zephraph/beep#readme"
+}
