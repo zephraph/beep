@@ -1,4 +1,4 @@
-import { setInput } from "rpi-gpio";
+import { setInput } from "array-gpio";
 
 // GPIO 17
 const sw = setInput(26);
