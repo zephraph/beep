@@ -8,3 +8,7 @@ sw.watch((state) => {
     console.log("button pushed!");
   }
 });
+
+setTimeout(() => {
+  process.exit();
+}, 5000);
